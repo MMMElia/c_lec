@@ -29,6 +29,7 @@ while (count<10000)
         y=(y+ya)/2;
     }
     if (what==1)
+
     
     {
         x=(x+xb)/2;
